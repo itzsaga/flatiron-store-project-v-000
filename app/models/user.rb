@@ -4,12 +4,5 @@ class User < ApplicationRecord
   devise :database_authenticatable, :registerable, :validatable
 
   has_many :carts
-
-  def current_cart=(current_cart)
-    @current_cart = self.carts.create
-  end
-
-  def current_cart
-    @current_cart
-  end
+  has_one :current_cart, class_name: "Cart"
 end
