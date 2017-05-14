@@ -13,7 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'uglifier', '>= 1.3.0'
 
 group :test, :development do
-  gem 'better_errors'
+  # gem 'better_errors'
   gem 'binding_of_caller'
   gem 'capybara'
   gem 'database_cleaner'
