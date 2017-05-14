@@ -4,14 +4,13 @@
     <enabled-run-configurations>
       <run-configuration type="RSpecRunConfigurationType" name="Run spec 'user_spec': flatiron-store-project-v-000" />
       <run-configuration type="RSpecRunConfigurationType" name="All specs in spec: flatiron-store-project-v-000" />
-      <run-configuration type="RSpecRunConfigurationType" name="Run spec 'cart_spec': flatiron-store-project-v-000" />
+      <run-configuration type="RSpecRunConfigurationType" name="Run spec 'category_spec': flatiron-store-project-v-000" />
+      <run-configuration type="RSpecRunConfigurationType" name="All specs in models: flatiron-store-project-v-000" />
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f7c822-df60-4996-9545-4c526bca5e1c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/item.rb" afterPath="$PROJECT_DIR$/app/models/item.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/line_item.rb" afterPath="$PROJECT_DIR$/app/models/line_item.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -26,51 +25,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@Item_available_items_only_returns_items_with_inventory__flatiron_store_project_v_000.coverage" NAME="Item.available_items only returns items with inventory: flatiron-store-project-v-000 Coverage Results" MODIFIED="1494732439940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="flatiron-store-project-v-000" />
     <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@All_specs_in_spec__flatiron_store_project_v_000.coverage" NAME="All specs in spec: flatiron-store-project-v-000 Coverage Results" MODIFIED="1494729165998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="flatiron-store-project-v-000" />
     <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@Run_spec__user_spec___flatiron_store_project_v_000.coverage" NAME="Run spec 'user_spec': flatiron-store-project-v-000 Coverage Results" MODIFIED="1494730032669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="flatiron-store-project-v-000" />
-    <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@Run_spec__cart_spec___flatiron_store_project_v_000.coverage" NAME="Run spec 'cart_spec': flatiron-store-project-v-000 Coverage Results" MODIFIED="1494730295609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="flatiron-store-project-v-000" />
+    <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@Item_available_items__flatiron_store_project_v_000.coverage" NAME="Item.available_items: flatiron-store-project-v-000 Coverage Results" MODIFIED="1494732404582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="flatiron-store-project-v-000" />
+    <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@Run_spec__cart_spec___flatiron_store_project_v_000.coverage" NAME="Run spec 'cart_spec': flatiron-store-project-v-000 Coverage Results" MODIFIED="1494732221032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="flatiron-store-project-v-000" />
+    <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@item.coverage" NAME="item Coverage Results" MODIFIED="1494732779297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/models" MODULE_NAME="flatiron-store-project-v-000" />
     <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@User_has_many_carts__flatiron_store_project_v_000.coverage" NAME="User has many carts: flatiron-store-project-v-000 Coverage Results" MODIFIED="1494729185945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="flatiron-store-project-v-000" />
+    <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@Run_spec__category_spec___flatiron_store_project_v_000.coverage" NAME="Run spec 'category_spec': flatiron-store-project-v-000 Coverage Results" MODIFIED="1494732270752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="flatiron-store-project-v-000" />
+    <SUITE FILE_PATH="coverage/flatiron_store_project_v_000@All_specs_in_models__flatiron_store_project_v_000.coverage" NAME="All specs in models: flatiron-store-project-v-000 Coverage Results" MODIFIED="1494732784686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="flatiron-store-project-v-000" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="user.rb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="108">
-                  <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="cart.rb" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/models/cart.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="108">
-                  <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="line_item.rb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/models/line_item.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="36">
-                  <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="item.rb" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/models/item.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="36">
-                  <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+                <state relative-caret-position="162">
+                  <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="category.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/models/category.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="18">
+                  <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -80,11 +64,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="cart_spec.rb" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/spec/models/cart_spec.rb">
+          <file leaf-file-name="item_spec.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spec/models/item_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="396">
-                  <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+                <state relative-caret-position="558">
+                  <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -112,8 +96,9 @@
         <option value="$PROJECT_DIR$/db/migrate/20170514020707_devise_create_users.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/models/line_item.rb" />
-        <option value="$PROJECT_DIR$/app/models/item.rb" />
         <option value="$PROJECT_DIR$/app/models/cart.rb" />
+        <option value="$PROJECT_DIR$/app/models/item.rb" />
+        <option value="$PROJECT_DIR$/app/models/category.rb" />
       </list>
     </option>
   </component>
@@ -256,8 +241,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="RSpec.Run spec 'cart_spec': flatiron-store-project-v-000">
-    <configuration default="false" name="All specs in spec: flatiron-store-project-v-000" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+  <component name="RunManager" selected="RSpec.All specs in models: flatiron-store-project-v-000">
+    <configuration default="false" name="Run spec 'category_spec': flatiron-store-project-v-000" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="flatiron-store-project-v-000" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -276,7 +261,41 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/spec" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/models/category_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All specs in models: flatiron-store-project-v-000" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="flatiron-store-project-v-000" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/spec/models" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
@@ -291,7 +310,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="User has many carts: flatiron-store-project-v-000" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration default="false" name="Item.available_items only returns items with inventory: flatiron-store-project-v-000" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="flatiron-store-project-v-000" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -310,11 +329,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/spec" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/models/user_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/spec/models" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/models/item_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="User has many carts" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Item.available_items only returns items with inventory" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -325,7 +344,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Run spec 'user_spec': flatiron-store-project-v-000" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration default="false" name="Item.available_items: flatiron-store-project-v-000" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="flatiron-store-project-v-000" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -344,11 +363,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/models/user_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/spec/models" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/models/item_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Item.available_items" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -359,18 +378,14 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Run spec 'cart_spec': flatiron-store-project-v-000" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+    <configuration default="false" name="item" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="flatiron-store-project-v-000" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="test" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/app/models" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
@@ -378,19 +393,8 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/models/cart_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/app/models/item.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -676,22 +680,24 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
-    <list size="8">
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Rake.test: flatiron-store-project-v-000" />
       <item index="1" class="java.lang.String" itemvalue="Rake.spec: flatiron-store-project-v-000" />
       <item index="2" class="java.lang.String" itemvalue="Rails.Production: flatiron-store-project-v-000" />
       <item index="3" class="java.lang.String" itemvalue="Rails.Development: flatiron-store-project-v-000" />
-      <item index="4" class="java.lang.String" itemvalue="RSpec.All specs in spec: flatiron-store-project-v-000" />
-      <item index="5" class="java.lang.String" itemvalue="RSpec.User has many carts: flatiron-store-project-v-000" />
-      <item index="6" class="java.lang.String" itemvalue="RSpec.Run spec 'user_spec': flatiron-store-project-v-000" />
-      <item index="7" class="java.lang.String" itemvalue="RSpec.Run spec 'cart_spec': flatiron-store-project-v-000" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Run spec 'category_spec': flatiron-store-project-v-000" />
+      <item index="5" class="java.lang.String" itemvalue="RSpec.All specs in models: flatiron-store-project-v-000" />
+      <item index="6" class="java.lang.String" itemvalue="RSpec.Item.available_items only returns items with inventory: flatiron-store-project-v-000" />
+      <item index="7" class="java.lang.String" itemvalue="RSpec.Item.available_items: flatiron-store-project-v-000" />
+      <item index="8" class="java.lang.String" itemvalue="Ruby.item" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'cart_spec': flatiron-store-project-v-000" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'user_spec': flatiron-store-project-v-000" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.User has many carts: flatiron-store-project-v-000" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.All specs in spec: flatiron-store-project-v-000" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="RSpec.All specs in models: flatiron-store-project-v-000" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.item" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Item.available_items only returns items with inventory: flatiron-store-project-v-000" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.Item.available_items: flatiron-store-project-v-000" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.Run spec 'category_spec': flatiron-store-project-v-000" />
       </list>
     </recent_temporary>
   </component>
@@ -706,7 +712,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494727066578</updated>
-      <workItem from="1494727068096" duration="3313000" />
+      <workItem from="1494727068096" duration="5964000" />
     </task>
     <task id="LOCAL-00001" summary="user model tests passing">
       <created>1494730342123</created>
@@ -722,43 +728,92 @@
       <option name="project" value="LOCAL" />
       <updated>1494730362730</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rubymine dotfiles">
+      <created>1494730385346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1494730385346</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cart specs passing">
+      <created>1494732844023</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1494732844023</updated>
+    </task>
+    <task id="LOCAL-00005" summary="category specs passing">
+      <created>1494732875482</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1494732875482</updated>
+    </task>
+    <task id="LOCAL-00006" summary="item specs passing">
+      <created>1494732898091</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1494732898091</updated>
+    </task>
+    <task id="LOCAL-00007" summary="line items associations">
+      <created>1494732920477</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1494732920477</updated>
+    </task>
+    <task id="LOCAL-00008" summary="rubymine dotfiles">
+      <created>1494732950856</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1494732950856</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add association migration">
+      <created>1494732987794</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1494732987794</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_spec_'cart_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 47m 40s.xml">
-      <configuration name="Run spec 'cart_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="All_specs_in_models__flatiron-store-project-v-000 - 2017.05.13 at 22h 24m 47s.xml">
+      <configuration name="All specs in models: flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'cart_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 50m 51s.xml">
-      <configuration name="Run spec 'cart_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="All_specs_in_models__flatiron-store-project-v-000 - 2017.05.13 at 22h 32m 30s.xml">
+      <configuration name="All specs in models: flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'cart_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 51m 23s.xml">
-      <configuration name="Run spec 'cart_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="All_specs_in_models__flatiron-store-project-v-000 - 2017.05.13 at 22h 33m 08s.xml">
+      <configuration name="All specs in models: flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'cart_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 51m 39s.xml">
-      <configuration name="Run spec 'cart_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Item_available_items__flatiron-store-project-v-000 - 2017.05.13 at 22h 26m 27s.xml">
+      <configuration name="Item.available_items: flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'user_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 44m 35s.xml">
-      <configuration name="Run spec 'user_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Item_available_items__flatiron-store-project-v-000 - 2017.05.13 at 22h 26m 48s.xml">
+      <configuration name="Item.available_items: flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'user_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 45m 40s.xml">
-      <configuration name="Run spec 'user_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Item_available_items_only_returns_items_with_inventory__flatiron-store-project-v-000 - 2017.05.13 at 22h 26m 05s.xml">
+      <configuration name="Item.available_items only returns items with inventory: flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'user_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 46m 22s.xml">
-      <configuration name="Run spec 'user_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Item_available_items_only_returns_items_with_inventory__flatiron-store-project-v-000 - 2017.05.13 at 22h 27m 23s.xml">
+      <configuration name="Item.available_items only returns items with inventory: flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'user_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 46m 40s.xml">
-      <configuration name="Run spec 'user_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'category_spec'__flatiron-store-project-v-000 - 2017.05.13 at 22h 23m 59s.xml">
+      <configuration name="Run spec 'category_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'user_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 47m 06s.xml">
-      <configuration name="Run spec 'user_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'category_spec'__flatiron-store-project-v-000 - 2017.05.13 at 22h 24m 23s.xml">
+      <configuration name="Run spec 'category_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'user_spec'__flatiron-store-project-v-000 - 2017.05.13 at 21h 47m 15s.xml">
-      <configuration name="Run spec 'user_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'category_spec'__flatiron-store-project-v-000 - 2017.05.13 at 22h 24m 34s.xml">
+      <configuration name="Run spec 'category_spec': flatiron-store-project-v-000" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3313000" />
+    <option name="totallyTimeSpent" value="5964000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -783,7 +838,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27679136" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952996" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -800,8 +855,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="user model tests passing" />
+    <MESSAGE value="cart specs passing" />
+    <MESSAGE value="category specs passing" />
+    <MESSAGE value="item specs passing" />
+    <MESSAGE value="line items associations" />
     <MESSAGE value="rubymine dotfiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="rubymine dotfiles" />
+    <MESSAGE value="add association migration" />
+    <option name="LAST_COMMIT_MESSAGE" value="add association migration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -920,14 +980,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/models/item_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140805183012_create_items.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -968,22 +1020,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/item.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/line_item.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1000,6 +1036,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/cart_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/cart.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1008,18 +1060,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/models/cart_spec.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/line_item.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="36">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/cart.rb">
+    <entry file="file://$PROJECT_DIR$/spec/models/item_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="558">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/item.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/category.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
           <folding />
         </state>
       </provider>
