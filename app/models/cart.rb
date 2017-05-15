@@ -11,8 +11,9 @@ class Cart < ActiveRecord::Base
     line_item = line_items.find_by(item_id: itemid)
     if items.include?(line_item.try(:item))
       line_item.update(quantity: (line_item.quantity + 1))
+      line_item
     else
-      line_items.create(item_id: itemid)
+      line_items.new(item_id: itemid)
     end
   end
 

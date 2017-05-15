@@ -6,6 +6,7 @@ class LineItemsController < ApplicationController
       cart = current_user.carts.create
       cart.add_item(params[:item_id])
     end
+    cart.save
     redirect_to cart_path(cart)
   end
 end
